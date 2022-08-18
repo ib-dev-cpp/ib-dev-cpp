@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ib-dev-cpp
 - 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning C programming Language
+- 🌱 I’m currently learning Assembly programming Language
 - 📫 How to reach me [Currently Invalid]
 
 <!---
